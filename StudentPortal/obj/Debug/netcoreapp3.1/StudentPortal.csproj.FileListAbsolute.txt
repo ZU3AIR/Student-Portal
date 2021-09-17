@@ -1,0 +1,16 @@
+H:\programming\projects\Student-Portal\StudentPortal\bin\Debug\netcoreapp3.1\StudentPortal.exe
+H:\programming\projects\Student-Portal\StudentPortal\bin\Debug\netcoreapp3.1\StudentPortal.deps.json
+H:\programming\projects\Student-Portal\StudentPortal\bin\Debug\netcoreapp3.1\StudentPortal.runtimeconfig.json
+H:\programming\projects\Student-Portal\StudentPortal\bin\Debug\netcoreapp3.1\StudentPortal.runtimeconfig.dev.json
+H:\programming\projects\Student-Portal\StudentPortal\bin\Debug\netcoreapp3.1\StudentPortal.dll
+H:\programming\projects\Student-Portal\StudentPortal\bin\Debug\netcoreapp3.1\StudentPortal.pdb
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.csproj.AssemblyReference.cache
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.Form1.resources
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.csproj.GenerateResource.cache
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.AssemblyInfoInputs.cache
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.AssemblyInfo.cs
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.csproj.CoreCompileInputs.cache
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.dll
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.pdb
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.genruntimeconfig.cache
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.Properties.Resources.resources
