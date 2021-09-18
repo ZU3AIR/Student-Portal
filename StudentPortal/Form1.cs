@@ -12,6 +12,9 @@ namespace StudentPortal
 {
     public partial class Form1 : Form
     {
+        // Creating Objects
+        Registration reg = new Registration();
+
         public Form1()
         {
             InitializeComponent();
@@ -36,5 +39,16 @@ namespace StudentPortal
         {
 
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            reg.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

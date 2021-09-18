@@ -14,3 +14,4 @@ H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\Stu
 H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.pdb
 H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.genruntimeconfig.cache
 H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.Properties.Resources.resources
+H:\programming\projects\Student-Portal\StudentPortal\obj\Debug\netcoreapp3.1\StudentPortal.Registration.resources
